@@ -1,4 +1,4 @@
-# Magic Spell
+# MysticWeaver
 Magic Spell is an AI-powered text editor built with Next.js and the Vercel AI SDK, using Groq for super fast inference.
 
 Main Function Points
