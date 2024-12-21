@@ -60,11 +60,11 @@ export default function RootLayout({
 						<A href="https://groq.com">Groq</A>
 					</p>
 					<p>
-						<A href="https://github.com/ai-ng/magic-spell">
+						<A href="https://github.com/AyushKumar1810/MysticWeaver">
 							source
 						</A>{" "}
 						/{" "}
-						<A href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fai-ng%2Fmagic-spell&env=GROQ_API_KEY&envDescription=Groq%20API%20key%20from%20https%3A%2F%2Fconsole.groq.com%2Fkeys&project-name=magic-spell&repository-name=magic-spell&demo-title=Magic%20Spell&demo-description=AI%20prompting%20built%20into%20your%20%3Ctextarea%3E&demo-url=https%3A%2F%2Fmagic-spell.vercel.app&demo-image=https%3A%2F%2Fmagic-spell.vercel.app%2Fopengraph-image.png">
+						<A href="https://mystic-weaver.vercel.app/">
 							deploy
 						</A>
 					</p>
